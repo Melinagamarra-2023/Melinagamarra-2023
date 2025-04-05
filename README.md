@@ -5,15 +5,20 @@
 <img align="right" width=400px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm91MjZzbzczbGR1ajh1Mm4xdWF2NmR6ZjRveGs2Mmo3bXdpb2tyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HCwnYWnMgLZUW1BtP2/giphy.gif"/>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+ 
+Desarrolladora Backend junior 💻 | Fan de los pomodoros 🍅 | Apasionada por el código limpio ✨
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+🛠️ ¡Mi zona de confort es el backend!  
+💬 Me especializo en el desarrollo de **APIs RESTful** robustas, seguras y escalables usando:
+
+- ⚙️ **Java + Spring Boot**
+- 🔐 **Spring Security con JWT y roles**
+- 🧪 **Pruebas unitarias con JUnit y Mockito**
+- 🗄️ **Bases de datos relacionales (MySQL, PostgreSQL)**
+
+📦 Diseño y estructuro APIs pensando en buenas prácticas, mantenibilidad y performance.<br>
+![Coffee Level](https://img.shields.io/badge/coffee-100%25☕-brown) ☕ Y sí, el café es parte clave de ese proceso.
+
 
 ## My Skills Include
 
