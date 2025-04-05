@@ -54,13 +54,13 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 <h4>🌐 Mis redes sociales</h4>
 
 <p align="left">
-  <a href="mailto:gamarramelina.2002@gmail.com">
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gamarramelina.2002@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/gamarramelinaa/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/melina-noemi-gamarra">
+  <a href="https://www.linkedin.com/in/melina-noemi-gamarra/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
