@@ -54,17 +54,14 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 <h4>🌐 Mis redes sociales</h4>
 
 <p align="left">
-  <a href="https://medium.com/@CodeWhiteWeb">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" />
+  <a href="mailto:gamarramelina.2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://reddit.com/user/CodeWhiteWeb">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit" />
+  <a href="https://www.instagram.com/gamarramelinaa/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://twitch.tv/code_white_web">
-    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch" />
-  </a>
-  <a href="https://youtube.com/c/CodeWhiteWeb">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
+  <a href="www.linkedin.com/in/melina-noemi-gamarra">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
