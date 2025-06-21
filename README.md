@@ -1,10 +1,10 @@
 <h1 align="center">
-  <b>Hi, I'm Melina Gamarra</b>
+  <b>Hola, soy Melina Gamarra</b>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHgzc3Jyd25tNHA1cnRyaTdubTFzN3g4YjBqbm5qc3JkdGhzOGtrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hBFR4rbtBBJiE/giphy.gif" width="50" alt="waving hand" />
 </h1>
 <img align="right" width=400px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm91MjZzbzczbGR1ajh1Mm4xdWF2NmR6ZjRveGs2Mmo3bXdpb2tyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HCwnYWnMgLZUW1BtP2/giphy.gif"/>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
  
 Desarrolladora Backend junior 💻 | Fan de los pomodoros 🍅 | Apasionada por el código limpio ✨
 
